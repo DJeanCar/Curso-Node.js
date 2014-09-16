@@ -1,0 +1,122 @@
+body{
+    background: #eee;
+}
+
+.head-tittle{
+    color: white;x
+    font-size : 2em;
+}
+
+.border
+{
+    list-style: none;
+    margin: 10px 10px 0 0;
+    border-bottom: 1px dotted #B3A9A9;
+    padding-bottom: 10px;
+}
+
+.jumbotron{    
+    background-image: url(../img/pattern2.png);
+}
+
+.sin-margen-inferior{
+    margin-bottom: 0;
+}
+
+.titulo{
+    color: #11a9cc;
+    font-weight: bold;
+    size:1.5em;
+}
+
+.usuario{
+    color: #5d5d5d;
+    text-decoration: none;
+    outline: 0;
+}
+
+.textarea-responder{
+    border-radius: 3px;
+    width: 100%;
+    height: 100px;
+    margin-bottom: 8px;
+}
+
+.color-blanco{
+    color: white;
+    margin: 0;
+}
+
+.color-blanco:hover{
+    cursor: pointer;
+}
+
+.panel-body-respuesta{
+    background-color: rgba(7, 135, 195, 0.56);
+    border-radius: 0 0 4px 4px;
+}
+
+.chat-content{
+    color: #988181;
+    font-size: 13px;
+}
+
+.chat-fecha{
+    font-size: 11px;
+    color: #B2A5A5;
+}
+
+.panel-default-customize{
+    margin-bottom: 0px;
+    border-radius: 0;
+}
+
+.panel-chat-body{
+    padding: 0;
+}
+
+.panel-body-customize{
+    overflow: auto;
+    height: 400px;
+    background-color: rgb(226, 226, 226);
+}
+
+.media-chat{
+    background-color: rgb(250, 250, 250);
+    padding: 0.4em;
+    margin-top: 5px;
+    border-radius: 3px;
+    border: 1px solid #C1C1C1;
+    box-shadow: 0 5px 10px rgba(0,0,0,.1);
+}
+
+.conectados{
+    padding: 0;
+}
+
+.panel-body-conectados{
+    overflow: auto;
+    height: 400px;
+}
+
+.panel-body-conectados > .nav > li > a{
+    padding: 0;
+}
+
+.list-group-customize{
+    margin-bottom: 0;
+}
+
+.media-conectados{
+    margin-top: 0;
+    background-color: rgba(159, 180, 77, 0.55);
+    padding: 0.2em;
+    color: white;
+    border-radius: 2px;
+    border: 1px solid rgb(119, 198, 127);
+}
+
+
+
+
+
